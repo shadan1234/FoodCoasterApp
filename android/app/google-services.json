@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370519028100",
+    "firebase_url": "https://foodcoaster-770a4-default-rtdb.firebaseio.com",
+    "project_id": "foodcoaster-770a4",
+    "storage_bucket": "foodcoaster-770a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370519028100:android:28bf378e98d7221d102dd1",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370519028100-dijtdsc3hjbc3o5ar75rdqu7e0g3pios.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcgdrUjIedK3BwmaUsfB6A4jwAWHDU14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370519028100-dijtdsc3hjbc3o5ar75rdqu7e0g3pios.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

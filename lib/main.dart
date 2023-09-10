@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'Food Coaster',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Container(
